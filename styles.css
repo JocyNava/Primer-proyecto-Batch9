@@ -1,0 +1,82 @@
+body{
+	width: 100%;
+	height: 100%;
+	background-image: url(img/fondo.jpg);
+	background-size: cover;
+}
+#titulo{
+	width: 200px;
+	color: black;
+	margin: 0 auto;
+	margin-top: 15px;
+}
+#nav{
+	color: white;
+	font-family: comic;
+	font-size: 20px
+}
+.logo{
+	border-radius: 20px;	
+	width: 30px;
+	margin-right: 10px;
+}
+#superior{
+	float: left;
+}
+.contenido{
+	margin-left: 110px;
+}
+#tcarnes{
+	font-size: 40px;
+}
+#lact{
+	font-size: 40px;
+}
+#pan{
+	font-size: 40px;
+}
+#izquierda{
+	margin-top: 10px;
+	width: 30%;
+	height: 300px;
+	float: left;
+}
+#izquierda img{
+	border-radius: 10px;
+	width: 130px;
+}
+#centro{
+	width: 30%;
+	height: 300px;
+	border-color: #EC570D;
+	float: left;
+}
+#centro img{
+	border-radius: 10px;
+	width: 130px;
+}
+#derecha{
+	width: 30%;
+	height: 300px;
+	border-color: #EC570D;
+	float: left;
+}
+#derecha img{
+	border-radius: 10px;
+	width: 130px;
+}
+#carnicos{
+	font-family: comic;
+	color: black;
+	font-size: 24px;
+}
+#lacticos{
+	font-family: fantasy;
+	color: black;
+	font-size: 24px; 
+}
+#panes{
+	font-family: cursive;
+	color: black;
+	font-size: 24px;
+}
